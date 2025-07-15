@@ -1,0 +1,1 @@
+# Fullstack Mongo App\nThis is a sample React + Node.js + MongoDB app deployed on AWS EKS.
